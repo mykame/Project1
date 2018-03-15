@@ -1,0 +1,10 @@
+/* Move down content because we have a fixed navbar that is 3.5rem tall */
+body {
+    
+  }
+  .jumbotron {
+    padding-top: 3.5rem;
+    border-width: 50px;
+    border-style: solid;
+    border-color: rgba(222, 9, 250, 0.925);
+  }
